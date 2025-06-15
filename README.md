@@ -1,7 +1,7 @@
 
 # 🌟 E-mail Scrap: AstroBoletim
 
-Um projetinho místico que faz scraping do horóscopo de **todos os signos** do site João Bidu e envia por e-mail uma mensagem linda, dividida em "cards" com um toque cósmico e estiloso ✨💜
+Um projeto que faz scraping do horóscopo de **todos os signos** do site João Bidu e envia por e-mail suas previsões pro dia corrente, divididas em "cards" ✨💜
 
 ## 📦 Tecnologias
 
@@ -9,14 +9,14 @@ Um projetinho místico que faz scraping do horóscopo de **todos os signos** do 
 - Cheerio + Axios (scraping)
 - Nodemailer (envio de e-mail)
 - dotenv (segurança nas configs)
-- HTML estilizado com imagem banner astral 🌌
+- HTML estilizado
 
 ## 🧙 Funcionalidade
 
 O script faz scraping do horóscopo do dia para todos os signos:
 - ♈ Áries até ♓ Peixes
 
-E envia tudo organizadinho por e-mail, com o visual místico já pronto para leitura. Nada genérico! Você pode usar isso como:
+E envia tudo organizadinho por e-mail, com o visual já pronto para leitura. Você pode usar isso como:
 - Newsletter astrológica
 - Base de automação
 - Envio diário programado
